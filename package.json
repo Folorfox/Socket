@@ -1,0 +1,12 @@
+{
+  "name": "minijeu",
+  "version": "1.0.0",
+  "description": "Puissance 4 à deux joueurs sur le même ordinateur",
+  "scripts": {
+    "start": "php -S localhost:8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
